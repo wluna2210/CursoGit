@@ -1,5 +1,7 @@
-@charset
+@charset "utf-8";
 /* CSS Documents */
-body{
+body {
     background-color: blue;
+    font-weight: bold;
+    color:#f00
 }
